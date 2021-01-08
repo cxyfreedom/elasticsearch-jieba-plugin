@@ -356,6 +356,8 @@ Query:
 ### NOTE
 migrate from [jieba-solr](https://github.com/sing1ee/jieba-solr)
 
+如果想要编译支持比如 5.6.16 版本，可以直接使用 5.4.0 版本进行编译打包，然后修改对应的描述文件中的版本即可。
+
 ### Roadmap
 I will add more analyzer support:
 - stanford chinese analyzer
