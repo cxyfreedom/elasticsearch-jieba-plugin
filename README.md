@@ -40,6 +40,8 @@ jieba analysis plugin for elasticsearch: ***7.3.0***, ***7.0.0***, ***6.4.0***, 
 
 ```shell
 gradle pz
+# 新版本建议用下面的指令
+gradelw clean pz
 ```
 - copy the zip file to plugin directory
 
